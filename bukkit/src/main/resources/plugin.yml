@@ -1,0 +1,11 @@
+name: ${project.artifactId}
+main: ${parent.groupId}.${parent.artifactId}.${parent.name}
+
+version: ${parent.version} [${vertic.desc}]
+api-version: 1.13
+
+authors:
+  - "Crune"
+
+description: ${parent.description}
+website: ${parent.url}

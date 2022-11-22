@@ -1,0 +1,9 @@
+name: ${project.artifactId}
+main: ${parent.groupId}.${parent.artifactId}.${parent.name}
+
+version: ${parent.version} [${vertic.desc}]
+authors:
+  - "Crune"
+
+description: ${parent.description}
+website: ${parent.url}
