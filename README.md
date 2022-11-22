@@ -1,4 +1,4 @@
-# Vertic
+# Vertic Core Framework
 An extensive Java Modular Core providing a Parametric Command Framework and more.
 
 ###### This is a brief description about the plugin and its author.
